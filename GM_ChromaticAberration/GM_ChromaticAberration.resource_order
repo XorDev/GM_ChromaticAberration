@@ -1,0 +1,10 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
+    {"name":"Demo","order":10,"path":"folders/Demo.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"obj_controller","order":1,"path":"objects/obj_controller/obj_controller.yy",},
+    {"name":"rm_demo","order":2,"path":"rooms/rm_demo/rm_demo.yy",},
+  ],
+}
