@@ -1,7 +1,7 @@
 {
   "FolderOrderSettings": [
-    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
     {"name":"Demo","order":10,"path":"folders/Demo.yy",},
+    {"name":"Shaders","order":6,"path":"folders/Shaders.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"obj_controller","order":1,"path":"objects/obj_controller/obj_controller.yy",},

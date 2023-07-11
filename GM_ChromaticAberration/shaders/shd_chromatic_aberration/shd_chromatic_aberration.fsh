@@ -48,7 +48,7 @@ void main()
         vec2 coord = uv;
         
         #if (MODE==LINEAR)
-            coord = uv+0.04*(i-.5)*m;
+            coord = uv+0.04*(i-.5)*v;
         #elif (MODE==RADIAL)
             coord = mix(uv, vec2(.5), (i-.5)*.1*a);
         #elif (MODE==TWIST)
